@@ -1,4 +1,4 @@
-DERVÝÞ BAYHAN
+ï»¿DERVÄ°Åž BAYHAN
 030115237
-SÝNYAL ÝÞLEME
+SÄ°NYAL Ä°ÅžLEME
 Proje : MATLAB ile sentezleme
